@@ -1,0 +1,22 @@
+# Keil MDK build artifacts
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.htm
+*.lnk
+*.map
+*.lst
+*.crf
+
+# Keil user-specific files
+*.uvguix.*
+*.uvoptx
+
+# OS files
+Thumbs.db
+Desktop.ini
